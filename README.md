@@ -51,11 +51,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=1200&pause=100000&color=00FF41&vCenter=true&repeat=false&width=380&height=46&lines=Who+I+Am" alt="Who I Am" />
 
-I'm **Dipnarayan Nandi** (aka **InfiniteX**) — a **Security Engineer** specialising in **Cloud Security** and **Automation**, based in **Kolkata, India**, working at **Workmates Core2Cloud Solution Limited**.
+I'm **Dipnarayan Nandi** (aka **InfiniteX**) — a **Security Engineer** who works across the full security stack, not just one corner of it.
 
-I work hands-on with **Cloud Security, WAF/WaaS, Network Firewall, TLS inspection** and **SOC-related implementations** across **AWS & Azure**, with hands-on expertise in **Incident Response** and **Threat Detection**. I'm **AWS Certified Security – Specialty**, **AWS Certified Solutions Architect – Associate (SAA-C03)** and a **Barracuda WAF-as-a-Service Certified Product Specialist (WAS200)**.
+My expertise spans **Cloud Security & CSPM**, **SIEM & SOC operations**, **Incident Response**, **Threat Detection**, **Network Firewall**, **Web Application Firewall (WAF / WaaS)**, **TLS inspection** and **DevSecOps** — across **AWS, Azure & Utho Cloud**, aligned with **SEBI, RBI, CIS Benchmarks & PCI DSS**.
 
-On GitHub I build **DevSecOps pipelines**, **AWS security dashboards**, **WAF tooling**, and **AI-powered security automation** with Wazuh, n8n and local LLMs.
+I'm **AWS Certified Security – Specialty**, **AWS Certified Solutions Architect – Associate (SAA-C03)** and a **Barracuda WAF-as-a-Service Certified Product Specialist (WAS200)**.
+
+On GitHub I build **DevSecOps pipelines**, **WAF tooling**, **cloud compliance automation** and **AI-powered SOC automation** with Wazuh, n8n and local LLMs.
 
 </td>
 <td width="40%" valign="top">
@@ -66,12 +68,10 @@ On GitHub I build **DevSecOps pipelines**, **AWS security dashboards**, **WAF to
 name:      Dipnarayan Nandi
 aka:       InfiniteX
 role:      Security Engineer
-focus:     Cloud Security · Automation
-expertise: Incident Response
-           Threat Detection
+focus:     Cloud Sec · CSPM · SIEM
+           IR · Threat Detection
+           Network FW · WAF
 exp:       5+ years
-company:   Workmates Core2Cloud
-location:  Kolkata, India
 certs:     AWS Security Specialty
            AWS SAA-C03
            Barracuda WAS200
@@ -338,7 +338,9 @@ AWS security · WAF/WaaS · Network Firewall · Incident Response · Threat Dete
 <!-- ============================================================ -->
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react)
+### 💡 **_"Mistakes aren't bugs in your journey — they're commits. Make them, learn from them, and push a better version of yourself every single time."_**
+
+**— Dipnarayan Nandi · InfiniteX ♾️**
 
 </div>
 
