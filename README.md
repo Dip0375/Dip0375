@@ -77,7 +77,8 @@ certs:     AWS Security Specialty
            Barracuda WAS200
 clouds:    AWS · Azure · Utho
 grc:       SEBI · RBI · CIS · PCI DSS
-learning:  Zero Trust · SIEM/SOAR
+learning:  Zero Trust · AI Security
+           AI Agents · AI Automation
 fun_fact:  "Play with Logs" 😄
 ```
 
@@ -107,7 +108,9 @@ fun_fact:  "Play with Logs" 😄
 
 ### **🌱 Learning & Exploring**
 - 🧭 **Zero Trust architecture**
-- 📡 **SIEM / SOAR integrations**
+- 🤖 **AI Security** — securing LLMs & AI workloads
+- 🧠 **AI Agents** & agentic workflows
+- ⚡ **AI-driven security automation**
 - ☁️ **Advanced cloud security services**
 - 📊 Large-scale **cloud security design**
 
