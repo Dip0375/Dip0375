@@ -1,70 +1,334 @@
-# 💫 About Me:
-🔭 I’m currently working on Cloud Security, WAF/WaaS, Network Firewall, TLS inspection, and SOC-related implementations.<br>👯 I’m looking to collaborate on cloud security, DevSecOps, automation, and security architecture projects.<br>🤝 I’m looking for help with “Play with Logs” 😄, large-scale cloud security design, and security automation.<br>🌱 I’m currently learning Zero Trust architecture, SIEM/SOAR integrations, and advanced cloud security services.<br>💬 Ask me about AWS security, WAF/WaaS, Network Firewall, cloud compliance, and best practices.<br>⚡ Fun fact: I enjoy simplifying complex cloud security problems into practical, real-world solutions 🔐☁️
+<!-- ============================================================ -->
+<!--                            HEADER                            -->
+<!-- ============================================================ -->
+<div align="center">
 
-## 🌐 Website
-[![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.dipnarayan.in)
+# Dipnarayan Nandi
 
-## 🔗 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipnarayan-nandi-95b6a21b3/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/infinite_cloud.ai)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@dipnarayan.n) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dipnarayan.cse@gmail.com) 
+#### Cloud Security Engineer · DevSecOps Builder · SOC Automation · Freelancer
 
-# 💻 Tech Stack:
-### ☁️ Cloud & Platforms
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=Cloud+Security+Engineer+%F0%9F%94%90;AWS+Certified+Security+-+Specialty;AWS+Certified+Solutions+Architect+Associate;WAF+%7C+WaaS+%7C+Network+Firewall+%7C+TLS+Inspection;Building+AI-powered+SOC+Automation+%E2%9A%A1" alt="Typing SVG" />
+</a>
 
-### 🔐 Network & Application Security
-![AWS Network Firewall](https://img.shields.io/badge/AWS%20Network%20Firewall-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS WAF](https://img.shields.io/badge/AWS%20WAF-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Barracuda WaaS](https://img.shields.io/badge/Barracuda%20WaaS-%2300B388.svg?style=for-the-badge&logo=barracuda&logoColor=white)
-![AWS Shield](https://img.shields.io/badge/AWS%20Shield-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![TLS / SSL](https://img.shields.io/badge/TLS%20%2F%20SSL-%23009688.svg?style=for-the-badge&logo=letsencrypt&logoColor=white)
+</div>
 
-### 📊 Detection, Logs & Monitoring
-![SIEM](https://img.shields.io/badge/SIEM-%23007ACC.svg?style=for-the-badge&logo=splunk&logoColor=white)
-![AWS GuardDuty](https://img.shields.io/badge/AWS%20GuardDuty-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS Security Hub](https://img.shields.io/badge/AWS%20Security%20Hub-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS Inspector](https://img.shields.io/badge/AWS%20Inspector-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-[![AWS CloudWatch](https://img.shields.io/badge/AWS%20CloudWatch-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/cloudwatch/)
+<!-- ============================================================ -->
+<!--                       SOCIAL + METRICS                       -->
+<!-- ============================================================ -->
+<div align="center">
 
-### 🧠 SOC, Automation & DevSecOps
-![EDR / XDR](https://img.shields.io/badge/EDR%20%2F%20XDR-%235A2D82.svg?style=for-the-badge&logo=security&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.dipnarayan.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipnarayan-nandi-95b6a21b3/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dipnarayan.n)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/infinite_cloud.ai)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dipnarayan.cse@gmail.com)
 
-### 🌐 Web & Server (Supporting Stack)
-![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=Dip0375&label=Profile%20Views&color=0077B5&style=for-the-badge)
+[![Followers](https://img.shields.io/github/followers/Dip0375?label=Followers&style=for-the-badge&color=0077B5&logo=github)](https://github.com/Dip0375?tab=followers)
+[![AWS Security Specialty](https://img.shields.io/badge/AWS-Security%20Specialty-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.linkedin.com/in/dipnarayan-nandi-95b6a21b3/)
+[![AWS SAA](https://img.shields.io/badge/AWS-SAA--C03-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.linkedin.com/in/dipnarayan-nandi-95b6a21b3/)
 
-### 🗄️ Database & APIs
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### 🔧 Version Control & Collaboration
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-
-### 🎨 Design & Misc
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-### 📜 Governance, Risk & Compliance
-![Cloud Security](https://img.shields.io/badge/Cloud%20Security-%23009688.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Compliance](https://img.shields.io/badge/Compliance-%232E7D32.svg?style=for-the-badge&logo=checkmarx&logoColor=white)
-![ISO 27001](https://img.shields.io/badge/ISO%2027001-%23000000.svg?style=for-the-badge&logo=iso&logoColor=white)
-![PCI DSS](https://img.shields.io/badge/PCI%20DSS-%23005A9C.svg?style=for-the-badge&logo=visa&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dip0375&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Dip0375&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dip0375&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Dip0375&icon=0&color=0)](https://visitcount.itsvg.in)
-© 2026 Dipnarayan Nandi. All rights reserved.
+
+<!-- ============================================================ -->
+<!--                       BRAND STATEMENT                        -->
+<!-- ============================================================ -->
+<div align="center">
+
+### 🔐 _"I simplify complex cloud security problems into practical, real-world solutions — from WAF rules to AI-powered SOC triage."_
+
+</div>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+## 👋 Who I Am
+
+I'm **Dipnarayan Nandi** — a **Cloud Security Engineer** based in **Kolkata, India**, working at **Workmates Core2Cloud Solution Limited** and as a **freelancer / career consultant**.
+
+I work hands-on with **Cloud Security, WAF/WaaS, Network Firewall, TLS inspection** and **SOC-related implementations** across **AWS & Azure**. I'm **AWS Certified Security – Specialty** and **AWS Certified Solutions Architect – Associate (SAA-C03)**.
+
+On GitHub I build **DevSecOps pipelines**, **AWS security dashboards**, **WAF tooling**, and **AI-powered SOC automation** with Wazuh, n8n and local LLMs.
+
+</td>
+<td width="40%" valign="top">
+
+## ⚡ At a Glance
+
+```yaml
+name:      Dipnarayan Nandi
+role:      Cloud Security Engineer
+company:   Workmates Core2Cloud
+location:  Kolkata, India
+focus:     WAF · Firewall · SOC
+certs:     AWS Security Specialty
+           AWS SAA-C03
+clouds:    AWS · Azure
+learning:  Zero Trust · SIEM/SOAR
+fun_fact:  "Play with Logs" 😄
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ============================================================ -->
+<!--                  CURRENTLY BUILDING / LEARNING               -->
+<!-- ============================================================ -->
+## 🔭 Currently Building & Learning
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛠️ Building
+- 🛡️ **WAF / WaaS & Network Firewall** implementations
+- 🔍 **TLS inspection** & SOC-related implementations
+- 🤖 **AI-powered SOC triage** with Wazuh + n8n + local LLM
+- 🔄 **DevSecOps CI/CD pipelines** & security automation
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 Learning & Exploring
+- 🧭 **Zero Trust architecture**
+- 📡 **SIEM / SOAR integrations**
+- ☁️ **Advanced cloud security services**
+- 📊 Large-scale **cloud security design**
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 👯 Let's Collaborate On
+Cloud security · DevSecOps · Automation · Security architecture projects
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 Ask Me About
+AWS security · WAF/WaaS · Network Firewall · Cloud compliance & best practices
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ============================================================ -->
+<!--                          TECH STACK                          -->
+<!-- ============================================================ -->
+## 🧰 Tech Stack
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" width="58" height="58" />
+  &nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="58" height="58" />
+  &nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="58" height="58" />
+  &nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="58" height="58" />
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+<td align="right" width="190"><b>☁️ Cloud & Platforms</b></td>
+<td>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure&theme=dark" height="48" alt="cloud" />
+</td>
+</tr>
+<tr>
+<td align="right"><b>🧠 Automation & DevSecOps</b></td>
+<td>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=py,terraform,docker,jenkins&theme=dark" height="48" alt="devsecops" />
+</td>
+</tr>
+<tr>
+<td align="right"><b>📊 Monitoring</b></td>
+<td>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=grafana&theme=dark" height="48" alt="monitoring" />
+</td>
+</tr>
+<tr>
+<td align="right"><b>🌐 Web & Server</b></td>
+<td>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=apache,nginx,html,css&theme=dark" height="48" alt="web" />
+</td>
+</tr>
+<tr>
+<td align="right"><b>🗄️ Database & APIs</b></td>
+<td>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postman&theme=dark" height="48" alt="db" />
+</td>
+</tr>
+<tr>
+<td align="right"><b>🔧 Version Control</b></td>
+<td>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,bitbucket&theme=dark" height="48" alt="vcs" />
+</td>
+</tr>
+<tr>
+<td align="right"><b>🎨 Design & Misc</b></td>
+<td>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=canva,vercel&theme=dark" height="48" alt="misc" />
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**🔐 Network & Application Security**
+
+![AWS Network Firewall](https://img.shields.io/badge/AWS%20Network%20Firewall-1A1A2E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+![AWS WAF](https://img.shields.io/badge/AWS%20WAF-1A1A2E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+![Barracuda WaaS](https://img.shields.io/badge/Barracuda%20WaaS-1A1A2E?style=flat-square&logo=barracuda&logoColor=00B388)
+![AWS Shield](https://img.shields.io/badge/AWS%20Shield-1A1A2E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+![TLS / SSL](https://img.shields.io/badge/TLS%20%2F%20SSL-1A1A2E?style=flat-square&logo=letsencrypt&logoColor=white)
+
+**📊 Detection, Logs & SOC**
+
+![SIEM](https://img.shields.io/badge/SIEM-1A1A2E?style=flat-square&logo=splunk&logoColor=white)
+![EDR / XDR](https://img.shields.io/badge/EDR%20%2F%20XDR-1A1A2E?style=flat-square&logo=securityscorecard&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-1A1A2E?style=flat-square&logo=wazuh&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-1A1A2E?style=flat-square&logo=n8n&logoColor=EA4B71)
+![AWS GuardDuty](https://img.shields.io/badge/AWS%20GuardDuty-1A1A2E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+![AWS Security Hub](https://img.shields.io/badge/AWS%20Security%20Hub-1A1A2E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+![AWS Inspector](https://img.shields.io/badge/AWS%20Inspector-1A1A2E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+![AWS CloudWatch](https://img.shields.io/badge/AWS%20CloudWatch-1A1A2E?style=flat-square&logo=amazoncloudwatch&logoColor=FF4F8B)
+
+**📜 Governance, Risk & Compliance**
+
+![Cloud Security](https://img.shields.io/badge/Cloud%20Security-1A1A2E?style=flat-square&logo=cloudflare&logoColor=F38020)
+![Compliance](https://img.shields.io/badge/Compliance-1A1A2E?style=flat-square&logo=checkmarx&logoColor=white)
+![ISO 27001](https://img.shields.io/badge/ISO%2027001-1A1A2E?style=flat-square&logo=iso&logoColor=white)
+![PCI DSS](https://img.shields.io/badge/PCI%20DSS-1A1A2E?style=flat-square&logo=visa&logoColor=white)
+
+</div>
+
+---
+
+<!-- ============================================================ -->
+<!--                       FEATURED PROJECTS                      -->
+<!-- ============================================================ -->
+## 📌 Featured Projects
+
+| 🔗 Project | 🛠️ What It Does |
+|:---|:---|
+| **[wazuh-n8n-ai-soc-agent](https://github.com/Dip0375/wazuh-n8n-ai-soc-agent)** | AI-powered SOC L1/L2 triage for Wazuh — enriches alerts (IP reputation, CVSS, malware), gets a local-LLM verdict + MITRE mapping, safeguards auto-block, and emails a colour-coded report. |
+| **[devsecops-pipeline](https://github.com/Dip0375/devsecops-pipeline)** | End-to-end DevSecOps CI/CD pipeline with GitHub, Jenkins, SonarQube, Checkov, Trivy, Docker and automated deployment with email notifications. |
+| **[InfiniteX](https://github.com/Dip0375/InfiniteX)** | Web Application Firewall project. |
+| **[SecurityDashboard](https://github.com/Dip0375/SecurityDashboard)** | AWS Security Dashboard. |
+| **[WAFLogInsightQL](https://github.com/Dip0375/WAFLogInsightQL)** | WAF CloudWatch Logs Insights queries. |
+| **[SecurityHub_CustomFindings](https://github.com/Dip0375/SecurityHub_CustomFindings)** | Custom findings for AWS Security Hub. |
+| **[n8n-ai-automations](https://github.com/Dip0375/n8n-ai-automations)** | n8n AI automation workflows. |
+
+<div align="center">
+
+[![wazuh-n8n-ai-soc-agent](https://github-readme-stats.vercel.app/api/pin/?username=Dip0375&repo=wazuh-n8n-ai-soc-agent&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/Dip0375/wazuh-n8n-ai-soc-agent)
+[![devsecops-pipeline](https://github-readme-stats.vercel.app/api/pin/?username=Dip0375&repo=devsecops-pipeline&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/Dip0375/devsecops-pipeline)
+[![InfiniteX](https://github-readme-stats.vercel.app/api/pin/?username=Dip0375&repo=InfiniteX&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/Dip0375/InfiniteX)
+[![SecurityDashboard](https://github-readme-stats.vercel.app/api/pin/?username=Dip0375&repo=SecurityDashboard&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/Dip0375/SecurityDashboard)
+
+</div>
+
+---
+
+<!-- ============================================================ -->
+<!--                  GITHUB METRICS & STATS                      -->
+<!-- ============================================================ -->
+## 📊 GitHub Metrics & Stats Dashboard
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dip0375&show_icons=true&theme=react&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1DA1F2"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dip0375&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dip0375&theme=react&hide_border=true&background=0D1117&ring=1DA1F2&fire=FFD700&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dip0375&theme=github_dark" width="100%" alt="profile summary"/>
+
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dip0375&theme=github_dark" alt="repos per language"/>
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dip0375&theme=github_dark&utcOffset=5.5" alt="productive time"/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dip0375&bg_color=0D1117&color=58A6FF&line=1DA1F2&point=ffffff&area=true&hide_border=true)](https://github.com/Dip0375)
+
+</div>
+
+---
+
+<!-- ============================================================ -->
+<!--                     CONTENT & COMMUNITY                      -->
+<!-- ============================================================ -->
+## 🎙️ Content & Community
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+### ✍️ Writer
+✏️ Blogs on **[Medium](https://medium.com/@dipnarayan.n)** <br>
+📸 Cloud content on **[Instagram](https://instagram.com/infinite_cloud.ai)** <br>
+🌐 Portfolio — **[dipnarayan.in](https://www.dipnarayan.in)**
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 💼 Consultant
+🧑‍💻 **Freelancer** — cloud security projects <br>
+🧭 **Career consultant** for cloud & security aspirants <br>
+🤝 Open to collaboration
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🏅 Certifications
+🔐 **AWS Certified Security – Specialty** <br>
+🏗️ **AWS Certified Solutions Architect – Associate (SAA-C03)**
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipnarayan-nandi-95b6a21b3/)
+[![Medium](https://img.shields.io/badge/Read%20on%20Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dipnarayan.n)
+[![Website](https://img.shields.io/badge/Visit%20Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.dipnarayan.in)
+
+</div>
+
+---
+
+<!-- ============================================================ -->
+<!--                            QUOTE                             -->
+<!-- ============================================================ -->
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react)
+
+</div>
+
+<!-- ============================================================ -->
+<!--                           FOOTER                             -->
+<!-- ============================================================ -->
+<div align="center">
+
+**_Thanks for visiting — let's build a more secure cloud, together._** 🔐☁️
+
+⭐️ If you find my work useful, consider [following](https://github.com/Dip0375) or starring a repo.
+
+<sub>© 2026 Dipnarayan Nandi. All rights reserved.</sub>
+
+</div>
