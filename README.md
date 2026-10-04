@@ -140,7 +140,7 @@ AWS security · WAF/WaaS · Network Firewall · Incident Response · Threat Dete
 <tr>
 <td align="right" width="200"><b>☁️ Cloud & Hosting</b></td>
 <td>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,vercel&theme=dark" height="40" alt="AWS, Azure, Vercel" />&nbsp;&nbsp;<img src="https://github.com/utho-cloud.png?size=80" height="40" alt="Utho Cloud" title="Utho Cloud" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,vercel&theme=dark" height="40" alt="AWS, Azure, Vercel" />&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://utho.com/assets/utho-logo-dark-CCayNK0X.png" /><img src="https://utho.com/assets/utho-logo-light-C_lCVum7.png" height="36" alt="Utho Cloud" title="Utho Cloud" /></picture>
   <br/><sub>AWS · Azure · Vercel · Utho Cloud</sub>
 </td>
 </tr>
@@ -175,8 +175,8 @@ AWS security · WAF/WaaS · Network Firewall · Incident Response · Threat Dete
 <tr>
 <td align="right" width="200"><b>🔥 WAF & Network Security</b></td>
 <td>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws&theme=dark" height="40" alt="AWS WAF" />&nbsp;&nbsp;<img src="https://github.com/barracudanetworks.png?size=80" height="40" alt="Barracuda WaaS" title="Barracuda WaaS" />&nbsp;&nbsp;<img src="https://github.com/CheckPointSW.png?size=80" height="40" alt="Check Point" title="Check Point" />&nbsp;&nbsp;<img src="https://go-skill-icons.vercel.app/api/icons?i=cloudflare&theme=dark" height="40" alt="Cloudflare" />&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/owasp-modsecurity.png&filt=negate" /><img src="https://github.com/owasp-modsecurity.png?size=80" height="40" alt="ModSecurity" title="ModSecurity" /></picture>
-  <br/><sub>AWS WAF · Barracuda WaaS · Check Point · Cloudflare · ModSecurity · TLS Inspection</sub>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws&theme=dark" height="40" alt="AWS WAF" />&nbsp;&nbsp;<img src="https://github.com/barracudanetworks.png?size=80" height="40" alt="Barracuda WaaS" title="Barracuda WaaS" />&nbsp;&nbsp;<img src="https://github.com/CheckPointSW.png?size=80" height="40" alt="Check Point" title="Check Point" />&nbsp;&nbsp;<img src="https://go-skill-icons.vercel.app/api/icons?i=cloudflare&theme=dark" height="40" alt="Cloudflare" />&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/owasp-modsecurity.png&filt=negate" /><img src="https://github.com/owasp-modsecurity.png?size=80" height="40" alt="ModSecurity" title="ModSecurity" /></picture>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/chaitin/SafeLine@main/images/logo.svg" height="40" alt="SafeLine WAF" title="SafeLine WAF" />
+  <br/><sub>AWS WAF · Barracuda WaaS · Check Point · Cloudflare · ModSecurity · SafeLine · TLS Inspection</sub>
 </td>
 </tr>
 <tr>
