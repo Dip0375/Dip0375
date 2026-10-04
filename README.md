@@ -74,6 +74,7 @@ location:  Kolkata, India
 certs:     AWS Security Specialty
            AWS SAA-C03
 clouds:    AWS · Azure · Utho
+grc:       SEBI · RBI · CIS · PCI DSS
 learning:  Zero Trust · SIEM/SOAR
 fun_fact:  "Play with Logs" 😄
 ```
@@ -123,7 +124,7 @@ Cloud security · DevSecOps · Automation · Security architecture projects
 <td width="50%" valign="top">
 
 ### **💬 Ask Me About**
-AWS security · WAF/WaaS · Network Firewall · Incident Response · Threat Detection · Cloud compliance
+AWS security · WAF/WaaS · Network Firewall · Incident Response · Threat Detection · SEBI / RBI guidelines · CIS Benchmarks · PCI DSS
 
 </td>
 </tr>
@@ -227,10 +228,12 @@ AWS security · WAF/WaaS · Network Firewall · Incident Response · Threat Dete
 
 **📜 Governance, Risk & Compliance**
 
-![Cloud Security](https://img.shields.io/badge/Cloud%20Security-1A1A2E?style=flat-square&logo=cloudflare&logoColor=00FF41)
-![Compliance](https://img.shields.io/badge/Compliance-1A1A2E?style=flat-square&logo=checkmarx&logoColor=00FF41)
-![ISO 27001](https://img.shields.io/badge/ISO%2027001-1A1A2E?style=flat-square&logo=iso&logoColor=00FF41)
-![PCI DSS](https://img.shields.io/badge/PCI%20DSS-1A1A2E?style=flat-square&logo=visa&logoColor=00FF41)
+![SEBI Guidelines](https://img.shields.io/badge/SEBI-Guidelines-00FF41?style=for-the-badge&labelColor=0D1117)
+![RBI Guidelines](https://img.shields.io/badge/RBI-Guidelines-00FF41?style=for-the-badge&labelColor=0D1117)
+![CIS Benchmarks](https://img.shields.io/badge/CIS-Benchmarks-00FF41?style=for-the-badge&labelColor=0D1117)
+![PCI DSS Compliance](https://img.shields.io/badge/PCI%20DSS-Compliance-00FF41?style=for-the-badge&labelColor=0D1117)
+![ISO 27001](https://img.shields.io/badge/ISO-27001-00FF41?style=for-the-badge&labelColor=0D1117)
+![Cloud Compliance](https://img.shields.io/badge/Cloud-Compliance-00FF41?style=for-the-badge&labelColor=0D1117)
 
 </div>
 
