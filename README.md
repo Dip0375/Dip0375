@@ -248,18 +248,17 @@ AWS security · WAF/WaaS · Network Firewall · Incident Response · Threat Dete
 |:---|:---|
 | **[wazuh-n8n-ai-soc-agent](https://github.com/Dip0375/wazuh-n8n-ai-soc-agent)** | AI-powered SOC L1/L2 triage for Wazuh — enriches alerts (IP reputation, CVSS, malware), gets a local-LLM verdict + MITRE mapping, safeguards auto-block, and emails a colour-coded report. |
 | **[devsecops-pipeline](https://github.com/Dip0375/devsecops-pipeline)** | End-to-end DevSecOps CI/CD pipeline with GitHub, Jenkins, SonarQube, Checkov, Trivy, Docker and automated deployment with email notifications. |
-| **[InfiniteX](https://github.com/Dip0375/InfiniteX)** | Web Application Firewall project. |
-| **[SecurityDashboard](https://github.com/Dip0375/SecurityDashboard)** | AWS Security Dashboard. |
-| **[WAFLogInsightQL](https://github.com/Dip0375/WAFLogInsightQL)** | WAF CloudWatch Logs Insights queries. |
-| **[SecurityHub_CustomFindings](https://github.com/Dip0375/SecurityHub_CustomFindings)** | Custom findings for AWS Security Hub. |
-| **[n8n-ai-automations](https://github.com/Dip0375/n8n-ai-automations)** | n8n AI automation workflows. |
+| **[WAFLogInsightQL](https://github.com/Dip0375/WAFLogInsightQL)** | AWS WAF CloudWatch Logs Insights queries for threat hunting and log analysis. |
+| **[n8n-ai-automations](https://github.com/Dip0375/n8n-ai-automations)** | AI-powered automation workflows built with n8n. |
+| **[EnableAWSConfig_CFT](https://github.com/Dip0375/EnableAWSConfig_CFT)** | CloudFormation template that enables AWS Config with S3, SNS and IAM resources for continuous resource recording, audit and compliance. |
 
 <div align="center">
 
 [![wazuh-n8n-ai-soc-agent](https://github-readme-stats.vercel.app/api/pin/?username=Dip0375&repo=wazuh-n8n-ai-soc-agent&theme=react&hide_border=true&bg_color=0D1117&icon_color=00FF41&title_color=00FF41)](https://github.com/Dip0375/wazuh-n8n-ai-soc-agent)
 [![devsecops-pipeline](https://github-readme-stats.vercel.app/api/pin/?username=Dip0375&repo=devsecops-pipeline&theme=react&hide_border=true&bg_color=0D1117&icon_color=00FF41&title_color=00FF41)](https://github.com/Dip0375/devsecops-pipeline)
-[![InfiniteX](https://github-readme-stats.vercel.app/api/pin/?username=Dip0375&repo=InfiniteX&theme=react&hide_border=true&bg_color=0D1117&icon_color=00FF41&title_color=00FF41)](https://github.com/Dip0375/InfiniteX)
-[![SecurityDashboard](https://github-readme-stats.vercel.app/api/pin/?username=Dip0375&repo=SecurityDashboard&theme=react&hide_border=true&bg_color=0D1117&icon_color=00FF41&title_color=00FF41)](https://github.com/Dip0375/SecurityDashboard)
+[![WAFLogInsightQL](https://github-readme-stats.vercel.app/api/pin/?username=Dip0375&repo=WAFLogInsightQL&theme=react&hide_border=true&bg_color=0D1117&icon_color=00FF41&title_color=00FF41)](https://github.com/Dip0375/WAFLogInsightQL)
+[![n8n-ai-automations](https://github-readme-stats.vercel.app/api/pin/?username=Dip0375&repo=n8n-ai-automations&theme=react&hide_border=true&bg_color=0D1117&icon_color=00FF41&title_color=00FF41)](https://github.com/Dip0375/n8n-ai-automations)
+[![EnableAWSConfig_CFT](https://github-readme-stats.vercel.app/api/pin/?username=Dip0375&repo=EnableAWSConfig_CFT&theme=react&hide_border=true&bg_color=0D1117&icon_color=00FF41&title_color=00FF41)](https://github.com/Dip0375/EnableAWSConfig_CFT)
 
 </div>
 
