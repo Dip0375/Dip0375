@@ -10,7 +10,7 @@
 #### **Security Engineer · Cloud Security · Automation**
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00FF41&center=true&vCenter=true&width=750&height=50&lines=Security+Engineer+%7C+Cloud+Security+%F0%9F%94%90;AWS+Certified+Security+-+Specialty;AWS+Certified+Solutions+Architect+Associate;WAF+%7C+WaaS+%7C+Network+Firewall+%7C+TLS+Inspection;Incident+Response+%7C+Threat+Detection;Security+Automation+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00FF41&center=true&vCenter=true&width=750&height=50&lines=Security+Engineer+%7C+Cloud+Security+%F0%9F%94%90;AWS+Certified+Security+-+Specialty;AWS+Certified+Solutions+Architect+Associate;Barracuda+WaaS+Certified+Product+Specialist;WAF+%7C+WaaS+%7C+Network+Firewall+%7C+TLS+Inspection;Incident+Response+%7C+Threat+Detection;Security+Automation+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 </div>
@@ -30,6 +30,7 @@
 [![Followers](https://img.shields.io/github/followers/Dip0375?label=Followers&style=for-the-badge&color=0077B5&logo=github)](https://github.com/Dip0375?tab=followers)
 [![AWS Security Specialty](https://img.shields.io/badge/AWS-Security%20Specialty-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.linkedin.com/in/dipnarayan-nandi-95b6a21b3/)
 [![AWS SAA](https://img.shields.io/badge/AWS-SAA--C03-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.linkedin.com/in/dipnarayan-nandi-95b6a21b3/)
+[![Barracuda WAS200](https://img.shields.io/badge/Barracuda-WAS200-0088CE?style=for-the-badge)](https://www.linkedin.com/in/dipnarayan-nandi-95b6a21b3/)
 
 </div>
 
@@ -40,7 +41,7 @@
 <!-- ============================================================ -->
 <div align="center">
 
-### 🔐 **_"I simplify complex cloud security problems into practical, real-world solutions — from WAF rules to AI-powered SOC triage."_**
+### 🔐 **_"I believe in imperfection — make mistakes, learn from every one of them, and keep shipping a better version of yourself, one commit at a time."_**
 
 </div>
 
@@ -52,7 +53,7 @@
 
 I'm **Dipnarayan Nandi** (aka **InfiniteX**) — a **Security Engineer** specialising in **Cloud Security** and **Automation**, based in **Kolkata, India**, working at **Workmates Core2Cloud Solution Limited**.
 
-I work hands-on with **Cloud Security, WAF/WaaS, Network Firewall, TLS inspection** and **SOC-related implementations** across **AWS & Azure**, with hands-on expertise in **Incident Response** and **Threat Detection**. I'm **AWS Certified Security – Specialty** and **AWS Certified Solutions Architect – Associate (SAA-C03)**.
+I work hands-on with **Cloud Security, WAF/WaaS, Network Firewall, TLS inspection** and **SOC-related implementations** across **AWS & Azure**, with hands-on expertise in **Incident Response** and **Threat Detection**. I'm **AWS Certified Security – Specialty**, **AWS Certified Solutions Architect – Associate (SAA-C03)** and a **Barracuda WAF-as-a-Service Certified Product Specialist (WAS200)**.
 
 On GitHub I build **DevSecOps pipelines**, **AWS security dashboards**, **WAF tooling**, and **AI-powered security automation** with Wazuh, n8n and local LLMs.
 
@@ -73,6 +74,7 @@ company:   Workmates Core2Cloud
 location:  Kolkata, India
 certs:     AWS Security Specialty
            AWS SAA-C03
+           Barracuda WAS200
 clouds:    AWS · Azure · Utho
 grc:       SEBI · RBI · CIS · PCI DSS
 learning:  Zero Trust · SIEM/SOAR
@@ -314,7 +316,8 @@ AWS security · WAF/WaaS · Network Firewall · Incident Response · Threat Dete
 
 ### **🏅 Certifications**
 🔐 **AWS Certified Security – Specialty** <br>
-🏗️ **AWS Certified Solutions Architect – Associate (SAA-C03)**
+🏗️ **AWS Certified Solutions Architect – Associate (SAA-C03)** <br>
+🛡️ **Barracuda WAF-as-a-Service Certified Product Specialist (WAS200)**
 
 </td>
 </tr>
