@@ -3,12 +3,12 @@
 <!-- ============================================================ -->
 <div align="center">
 
-# Dipnarayan Nandi
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=42&duration=1200&pause=100000&color=00FF41&center=true&vCenter=true&repeat=false&width=800&height=75&lines=Dipnarayan+Nandi" alt="Dipnarayan Nandi" />
 
-#### Cloud Security Engineer · DevSecOps Builder · SOC Automation · Freelancer
+#### **Security Engineer · Cloud Security · Automation**
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=Cloud+Security+Engineer+%F0%9F%94%90;AWS+Certified+Security+-+Specialty;AWS+Certified+Solutions+Architect+Associate;WAF+%7C+WaaS+%7C+Network+Firewall+%7C+TLS+Inspection;Building+AI-powered+SOC+Automation+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00FF41&center=true&vCenter=true&width=750&height=50&lines=Security+Engineer+%7C+Cloud+Security+%F0%9F%94%90;AWS+Certified+Security+-+Specialty;AWS+Certified+Solutions+Architect+Associate;WAF+%7C+WaaS+%7C+Network+Firewall+%7C+TLS+Inspection;Security+Automation+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 </div>
@@ -38,7 +38,7 @@
 <!-- ============================================================ -->
 <div align="center">
 
-### 🔐 _"I simplify complex cloud security problems into practical, real-world solutions — from WAF rules to AI-powered SOC triage."_
+### 🔐 **_"I simplify complex cloud security problems into practical, real-world solutions — from WAF rules to AI-powered SOC triage."_**
 
 </div>
 
@@ -46,25 +46,25 @@
 <tr>
 <td width="60%" valign="top">
 
-## 👋 Who I Am
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=1200&pause=100000&color=00FF41&vCenter=true&repeat=false&width=380&height=46&lines=Who+I+Am" alt="Who I Am" />
 
-I'm **Dipnarayan Nandi** — a **Cloud Security Engineer** based in **Kolkata, India**, working at **Workmates Core2Cloud Solution Limited** and as a **freelancer / career consultant**.
+I'm **Dipnarayan Nandi** — a **Security Engineer** specialising in **Cloud Security** and **Automation**, based in **Kolkata, India**, working at **Workmates Core2Cloud Solution Limited**.
 
 I work hands-on with **Cloud Security, WAF/WaaS, Network Firewall, TLS inspection** and **SOC-related implementations** across **AWS & Azure**. I'm **AWS Certified Security – Specialty** and **AWS Certified Solutions Architect – Associate (SAA-C03)**.
 
-On GitHub I build **DevSecOps pipelines**, **AWS security dashboards**, **WAF tooling**, and **AI-powered SOC automation** with Wazuh, n8n and local LLMs.
+On GitHub I build **DevSecOps pipelines**, **AWS security dashboards**, **WAF tooling**, and **AI-powered security automation** with Wazuh, n8n and local LLMs.
 
 </td>
 <td width="40%" valign="top">
 
-## ⚡ At a Glance
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=1200&pause=100000&color=00FF41&vCenter=true&repeat=false&width=380&height=46&lines=At+a+Glance" alt="At a Glance" />
 
 ```yaml
 name:      Dipnarayan Nandi
-role:      Cloud Security Engineer
+role:      Security Engineer
+focus:     Cloud Security · Automation
 company:   Workmates Core2Cloud
 location:  Kolkata, India
-focus:     WAF · Firewall · SOC
 certs:     AWS Security Specialty
            AWS SAA-C03
 clouds:    AWS · Azure
@@ -81,13 +81,13 @@ fun_fact:  "Play with Logs" 😄
 <!-- ============================================================ -->
 <!--                  CURRENTLY BUILDING / LEARNING               -->
 <!-- ============================================================ -->
-## 🔭 Currently Building & Learning
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=1200&pause=100000&color=00FF41&vCenter=true&repeat=false&width=700&height=46&lines=Currently+Building+%26+Learning" alt="Currently Building & Learning" />
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛠️ Building
+### **🛠️ Building**
 - 🛡️ **WAF / WaaS & Network Firewall** implementations
 - 🔍 **TLS inspection** & SOC-related implementations
 - 🤖 **AI-powered SOC triage** with Wazuh + n8n + local LLM
@@ -96,7 +96,7 @@ fun_fact:  "Play with Logs" 😄
 </td>
 <td width="50%" valign="top">
 
-### 🌱 Learning & Exploring
+### **🌱 Learning & Exploring**
 - 🧭 **Zero Trust architecture**
 - 📡 **SIEM / SOAR integrations**
 - ☁️ **Advanced cloud security services**
@@ -110,13 +110,13 @@ fun_fact:  "Play with Logs" 😄
 <tr>
 <td width="50%" valign="top">
 
-### 👯 Let's Collaborate On
+### **👯 Let's Collaborate On**
 Cloud security · DevSecOps · Automation · Security architecture projects
 
 </td>
 <td width="50%" valign="top">
 
-### 💬 Ask Me About
+### **💬 Ask Me About**
 AWS security · WAF/WaaS · Network Firewall · Cloud compliance & best practices
 
 </td>
@@ -128,7 +128,7 @@ AWS security · WAF/WaaS · Network Firewall · Cloud compliance & best practice
 <!-- ============================================================ -->
 <!--                          TECH STACK                          -->
 <!-- ============================================================ -->
-## 🧰 Tech Stack
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=1200&pause=100000&color=00FF41&vCenter=true&repeat=false&width=700&height=46&lines=Tech+Stack" alt="Tech Stack" />
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" width="58" height="58" />
@@ -222,7 +222,7 @@ AWS security · WAF/WaaS · Network Firewall · Cloud compliance & best practice
 <!-- ============================================================ -->
 <!--                       FEATURED PROJECTS                      -->
 <!-- ============================================================ -->
-## 📌 Featured Projects
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=1200&pause=100000&color=00FF41&vCenter=true&repeat=false&width=700&height=46&lines=Featured+Projects" alt="Featured Projects" />
 
 | 🔗 Project | 🛠️ What It Does |
 |:---|:---|
@@ -236,10 +236,10 @@ AWS security · WAF/WaaS · Network Firewall · Cloud compliance & best practice
 
 <div align="center">
 
-[![wazuh-n8n-ai-soc-agent](https://github-readme-stats.vercel.app/api/pin/?username=Dip0375&repo=wazuh-n8n-ai-soc-agent&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/Dip0375/wazuh-n8n-ai-soc-agent)
-[![devsecops-pipeline](https://github-readme-stats.vercel.app/api/pin/?username=Dip0375&repo=devsecops-pipeline&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/Dip0375/devsecops-pipeline)
-[![InfiniteX](https://github-readme-stats.vercel.app/api/pin/?username=Dip0375&repo=InfiniteX&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/Dip0375/InfiniteX)
-[![SecurityDashboard](https://github-readme-stats.vercel.app/api/pin/?username=Dip0375&repo=SecurityDashboard&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/Dip0375/SecurityDashboard)
+[![wazuh-n8n-ai-soc-agent](https://github-readme-stats.vercel.app/api/pin/?username=Dip0375&repo=wazuh-n8n-ai-soc-agent&theme=react&hide_border=true&bg_color=0D1117&icon_color=00FF41&title_color=00FF41)](https://github.com/Dip0375/wazuh-n8n-ai-soc-agent)
+[![devsecops-pipeline](https://github-readme-stats.vercel.app/api/pin/?username=Dip0375&repo=devsecops-pipeline&theme=react&hide_border=true&bg_color=0D1117&icon_color=00FF41&title_color=00FF41)](https://github.com/Dip0375/devsecops-pipeline)
+[![InfiniteX](https://github-readme-stats.vercel.app/api/pin/?username=Dip0375&repo=InfiniteX&theme=react&hide_border=true&bg_color=0D1117&icon_color=00FF41&title_color=00FF41)](https://github.com/Dip0375/InfiniteX)
+[![SecurityDashboard](https://github-readme-stats.vercel.app/api/pin/?username=Dip0375&repo=SecurityDashboard&theme=react&hide_border=true&bg_color=0D1117&icon_color=00FF41&title_color=00FF41)](https://github.com/Dip0375/SecurityDashboard)
 
 </div>
 
@@ -248,21 +248,21 @@ AWS security · WAF/WaaS · Network Firewall · Cloud compliance & best practice
 <!-- ============================================================ -->
 <!--                  GITHUB METRICS & STATS                      -->
 <!-- ============================================================ -->
-## 📊 GitHub Metrics & Stats Dashboard
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=1200&pause=100000&color=00FF41&vCenter=true&repeat=false&width=700&height=46&lines=GitHub+Metrics+%26+Stats" alt="GitHub Metrics & Stats" />
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dip0375&show_icons=true&theme=react&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1DA1F2"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dip0375&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dip0375&show_icons=true&theme=react&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dip0375&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF41"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dip0375&theme=react&hide_border=true&background=0D1117&ring=1DA1F2&fire=FFD700&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dip0375&theme=react&hide_border=true&background=0D1117&ring=00FF41&fire=FFD700&currStreakLabel=00FF41)](https://git.io/streak-stats)
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dip0375&theme=github_dark" width="100%" alt="profile summary"/>
 
 <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dip0375&theme=github_dark" alt="repos per language"/>
 <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dip0375&theme=github_dark&utcOffset=5.5" alt="productive time"/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dip0375&bg_color=0D1117&color=58A6FF&line=1DA1F2&point=ffffff&area=true&hide_border=true)](https://github.com/Dip0375)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dip0375&bg_color=0D1117&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true)](https://github.com/Dip0375)
 
 </div>
 
@@ -271,13 +271,13 @@ AWS security · WAF/WaaS · Network Firewall · Cloud compliance & best practice
 <!-- ============================================================ -->
 <!--                     CONTENT & COMMUNITY                      -->
 <!-- ============================================================ -->
-## 🎙️ Content & Community
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=1200&pause=100000&color=00FF41&vCenter=true&repeat=false&width=700&height=46&lines=Content+%26+Community" alt="Content & Community" />
 
 <table>
 <tr>
 <td width="33%" valign="top" align="center">
 
-### ✍️ Writer
+### **✍️ Writer**
 ✏️ Blogs on **[Medium](https://medium.com/@dipnarayan.n)** <br>
 📸 Cloud content on **[Instagram](https://instagram.com/infinite_cloud.ai)** <br>
 🌐 Portfolio — **[dipnarayan.in](https://www.dipnarayan.in)**
@@ -285,7 +285,7 @@ AWS security · WAF/WaaS · Network Firewall · Cloud compliance & best practice
 </td>
 <td width="33%" valign="top" align="center">
 
-### 💼 Consultant
+### **💼 Consultant**
 🧑‍💻 **Freelancer** — cloud security projects <br>
 🧭 **Career consultant** for cloud & security aspirants <br>
 🤝 Open to collaboration
@@ -293,7 +293,7 @@ AWS security · WAF/WaaS · Network Firewall · Cloud compliance & best practice
 </td>
 <td width="33%" valign="top" align="center">
 
-### 🏅 Certifications
+### **🏅 Certifications**
 🔐 **AWS Certified Security – Specialty** <br>
 🏗️ **AWS Certified Solutions Architect – Associate (SAA-C03)**
 
