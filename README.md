@@ -5,7 +5,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=42&duration=1200&pause=100000&color=00FF41&center=true&vCenter=true&repeat=false&width=800&height=75&lines=Dipnarayan+Nandi" alt="Dipnarayan Nandi" />
 
-### **_aka InfiniteX_ ♾️**
+### **_aka Infinite_ ♾️**
 
 #### **Security Engineer · Cloud Security · Automation**
 
@@ -140,7 +140,7 @@ AWS security · WAF/WaaS · Network Firewall · Incident Response · Threat Dete
 <tr>
 <td align="right" width="200"><b>☁️ Cloud & Hosting</b></td>
 <td>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,vercel&theme=dark" height="40" alt="AWS, Azure, Vercel" />&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://utho.com/assets/utho-logo-dark-CCayNK0X.png" /><img src="https://utho.com/assets/utho-logo-light-C_lCVum7.png" height="36" alt="Utho Cloud" title="Utho Cloud" /></picture>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,vercel&theme=dark" height="40" alt="AWS, Azure, Vercel" />&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/utho-logo-dark.svg" /><img src="./assets/utho-logo-light.svg" height="36" alt="Utho Cloud" title="Utho Cloud" /></picture>
   <br/><sub>AWS · Azure · Vercel · Utho Cloud</sub>
 </td>
 </tr>
