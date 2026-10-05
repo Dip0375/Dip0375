@@ -236,7 +236,6 @@ AWS security · WAF/WaaS · Network Firewall · Incident Response · Threat Dete
 ![RBI Guidelines](https://img.shields.io/badge/RBI-Guidelines-238636?style=for-the-badge&labelColor=000000)
 ![CIS Benchmarks](https://img.shields.io/badge/CIS-Benchmarks-238636?style=for-the-badge&labelColor=000000)
 ![PCI DSS Compliance](https://img.shields.io/badge/PCI%20DSS-Compliance-238636?style=for-the-badge&labelColor=000000)
-![Cloud Compliance](https://img.shields.io/badge/Cloud-Compliance-238636?style=for-the-badge&labelColor=000000)
 
 </div>
 
