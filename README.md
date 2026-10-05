@@ -50,7 +50,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=1200&pause=100000&color=00FF41&vCenter=true&repeat=false&width=380&height=46&lines=Who+I+Am" alt="Who I Am" />
 
-I'm **Dipnarayan Nandi** (aka **InfiniteX**) — a **Security Engineer** who works across the full security stack, not just one corner of it.
+I'm **Dipnarayan Nandi** (aka **Infinite**) — a **Security Engineer** who works across the full security stack, not just one corner of it.
 
 My expertise spans **Cloud Security & CSPM**, **SIEM & SOC operations**, **Incident Response**, **Threat Detection**, **Network Firewall**, **Web Application Firewall (WAF / WaaS)**, **TLS inspection** and **DevSecOps** — across **AWS, Azure & Utho Cloud**, aligned with **SEBI, RBI, CIS Benchmarks & PCI DSS**.
 
@@ -65,7 +65,7 @@ On GitHub I build **DevSecOps pipelines**, **WAF tooling**, **cloud compliance a
 
 ```yaml
 name:      Dipnarayan Nandi
-aka:       InfiniteX
+aka:       Infinite
 role:      Security Engineer
 focus:     Cloud Sec · CSPM · SIEM
            IR · Threat Detection
@@ -331,7 +331,7 @@ AWS security · WAF/WaaS · Network Firewall · Incident Response · Threat Dete
 
 ### 💡 **_"Mistakes aren't bugs in your journey — they're commits. Make them, learn from them, and push a better version of yourself every single time."_**
 
-**— Dipnarayan Nandi · InfiniteX ♾️**
+**— Dipnarayan Nandi · Infinite ♾️**
 
 </div>
 
@@ -344,6 +344,6 @@ AWS security · WAF/WaaS · Network Firewall · Incident Response · Threat Dete
 
 ⭐️ If you find my work useful, consider [following](https://github.com/Dip0375) or starring a repo.
 
-<sub>By InfiniteX ♾️ · © 2026 Dipnarayan Nandi. All rights reserved.</sub>
+<sub>By Infinite ♾️ · © 2026 Dipnarayan Nandi. All rights reserved.</sub>
 
 </div>
