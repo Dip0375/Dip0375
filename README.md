@@ -26,7 +26,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/infinite_cloud.ai)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dipnarayan.cse@gmail.com)
 
-[![Profile Views](https://hits.sh/github.com/Dip0375.svg?label=Profile%20Views&color=00FF41&labelColor=0D1117&style=for-the-badge)](https://hits.sh/github.com/Dip0375/)
+[![Profile Views](https://hits.sh/github.com/Dip0375.svg?label=Profile%20Views&color=00FF41&labelColor=000000&style=for-the-badge)](https://hits.sh/github.com/Dip0375/)
 [![Followers](https://img.shields.io/github/followers/Dip0375?label=Followers&style=for-the-badge&color=0077B5&logo=github)](https://github.com/Dip0375?tab=followers)
 [![AWS Security Specialty](https://img.shields.io/badge/AWS-Security%20Specialty-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.linkedin.com/in/dipnarayan-nandi-95b6a21b3/)
 [![AWS SAA](https://img.shields.io/badge/AWS-SAA--C03-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.linkedin.com/in/dipnarayan-nandi-95b6a21b3/)
