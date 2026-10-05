@@ -329,7 +329,7 @@ AWS security · WAF/WaaS · Network Firewall · Incident Response · Threat Dete
 <!-- ============================================================ -->
 <div align="center">
 
-### 💡 **_"Mistakes aren't bugs in your journey — they're commits. Make them, learn from them, and push a better version of yourself every single time."_**
+### 💡 **_"Mistakes aren't bugs in your journey... they're commits. Make them, learn from them, and push a better version of yourself every single time."_**
 
 **— Dipnarayan Nandi · Infinite ♾️**
 
